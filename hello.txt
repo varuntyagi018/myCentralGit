@@ -1,1 +1,1 @@
-This is text file from master
+this is text file by master .
